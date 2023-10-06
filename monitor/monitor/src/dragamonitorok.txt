@@ -1,0 +1,5 @@
+50000ft fölötti monitorok:
+Gyártó: AOC; Típus: 24G2U; Méret: 23.8 col; Nettó ár: 66 ezer Ft; Darab raktáron: 15
+Gyártó: SAMSUNG; Típus: ODYSSEY G9 C49G95TSSU; Méret: 49 col; Nettó ár: 449 ezer Ft; Darab raktáron: 15
+Gyártó: LG; Típus: 25UM58-P; Méret: 25 col; Nettó ár: 56 ezer Ft; Darab raktáron: 15
+Gyártó: SAMSUNG; Típus: C27JG50QQU; Méret: 27.5 col; Nettó ár: 91 ezer Ft; Darab raktáron: 15

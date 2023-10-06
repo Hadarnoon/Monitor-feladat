@@ -1,0 +1,14 @@
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.exe
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.deps.json
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.runtimeconfig.json
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.runtimeconfig.dev.json
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.dll
+C:\Users\tomio\source\repos\monitor\monitor\bin\Debug\netcoreapp3.1\monitor.pdb
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.csproj.AssemblyReference.cache
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.AssemblyInfoInputs.cache
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.AssemblyInfo.cs
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.csproj.CoreCompileInputs.cache
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.dll
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.pdb
+C:\Users\tomio\source\repos\monitor\monitor\obj\Debug\netcoreapp3.1\monitor.genruntimeconfig.cache
